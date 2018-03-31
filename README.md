@@ -31,7 +31,7 @@
 ## 3、附录
 
 1. Tensorflow for Windows 安装方法：https://blog.csdn.net/u010099080/article/details/53418159
-2. cuDNN下载地址：https://developer.nvidia.com/cudnn（最新的是cuDNN 7.1，在我的机器上只有cuDNN 7.0才能使用）
+2. cuDNN下载地址：https://developer.nvidia.com/cudnn （最新的是cuDNN 7.1，在我的机器上只有cuDNN 7.0才能使用）
 3. Nvidia CUDA下载地址：https://developer.nvidia.com/cuda-downloads
 4. Anaconda下载地址：https://www.anaconda.com/download/
 5. Keras中文文档：http://keras-cn.readthedocs.io/en/latest/
